@@ -1,0 +1,6 @@
+Package: h3clite
+Version: 2.0
+Section: network
+Maintainer: lxf.me
+Architecture: brcm63xx
+Description: H3C Lite 802.1x Client
